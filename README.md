@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Azure DevOps Services Project Front-End
 
 <p>
-  <img src=" https://pt.wikipedia.org/wiki/Ficheiro:Microsoft_Azure_Logo.svg" width="120" alt="accessibility text">
+  <img src=" https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="120" alt="accessibility text">
 </p>
 
 ```bash
