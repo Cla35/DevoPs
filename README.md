@@ -1,8 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Azure DevOps Services Project Front-End
 
-First, run the development server:
+<p>
+  <img src=" https://pt.wikipedia.org/wiki/Ficheiro:Microsoft_Azure_Logo.svg" width="120" alt="accessibility text">
+</p>
 
 ```bash
 npm run dev
